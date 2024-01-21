@@ -1,4 +1,4 @@
- // BISMILLAH
+// BISMILLAH
 
 #include <bits/stdc++.h>
 
