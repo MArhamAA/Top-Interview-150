@@ -30,6 +30,6 @@ https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string
 
 Implementation, string, time O(N*N)
 
-for time O(N) use string algos like, KMP, z-functions or hashing
+for time O(N) use string algos like, KMP, z-function or hashing
 
 */
