@@ -23,4 +23,10 @@ signed main() {
 
 Implementation
 
+"Follow Up: ON lgN)
+Each char has list of
+positions. Char by Char
+binary search based on
+last char pos."
+
 */
