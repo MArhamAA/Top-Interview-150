@@ -106,10 +106,10 @@ signed main() {
 
 /*
 
-merge sort algorithmmerge sort algorithm, left-right segment
+merge sort algorithm, left-right segment
 
 "O(N lg N) time
 O(1) extra space-
-ignoring recurson stack"
+ignoring recursion stack"
 
 */
