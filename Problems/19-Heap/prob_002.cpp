@@ -61,5 +61,6 @@ signed main() {
 /*
 
 priority_queue, hashmap, upper_bound
+greedy
 
 */
